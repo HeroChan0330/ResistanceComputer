@@ -1,0 +1,30 @@
+.digitButton{
+	width: 22%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.equalButton{
+	width: 69%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.opButton{
+	width: 22%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.delButton{
+	width: 22%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.clrButton{
+	width: 22%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.outputBox{
+	text-align: right;
+	font-size: 20px;
+	line-height: 30px;
+}
